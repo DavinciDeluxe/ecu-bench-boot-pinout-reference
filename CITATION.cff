@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "ecu-bench-boot-pinout-reference — DaVinci Deluxe Cloud Edition (v1.0.44)"
+title: "ECU & TCU Hardware MCU, Bench Service Mode (GPT1/GPT2), Tricore BSL & Connector Architecture Reference (MEDC17, MD1, MG1, PCR2.1, SID, DCM, DSG, ZF8HP) (v1.0.44)"
 version: "1.0.44"
 date-released: "2026-11-06"
 url: "https://www.davincideluxe.fr/shop"
